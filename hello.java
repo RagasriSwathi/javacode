@@ -1,4 +1,4 @@
-#program 1 
+#program 2 
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
