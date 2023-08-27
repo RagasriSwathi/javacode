@@ -1,4 +1,4 @@
-#java program 1
+#java Program 1
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
